@@ -1,0 +1,9 @@
+upload_attachments.py
+---------------------
+
+A facility for uplaoding multiple attachments to confluence programatically.
+
+Usage
+-----
+  upload_attachments.py -h
+
