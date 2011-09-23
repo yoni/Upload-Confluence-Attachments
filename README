@@ -1,7 +1,11 @@
 upload_attachments.py
 ---------------------
 
-A facility for uplaoding multiple attachments to confluence programatically.
+A facility for uploading multiple attachments to confluence programatically.
+
+Requires
+--------
+Python version 2.7 (for argparse)
 
 Usage
 -----
