@@ -3,6 +3,10 @@ upload_attachments.py
 
 A facility for uploading multiple attachments to confluence programatically.
 
+It's great for workflows like:
+* Uploading all files of a given type from a directory
+* Uploading all files of a given type whose name matches a regular expression
+
 Requires
 --------
 Python version 2.7 (for argparse)
